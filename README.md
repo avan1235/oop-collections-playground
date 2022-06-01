@@ -12,12 +12,12 @@ differences for these collections.
 
 Required checks:
 1. Map<K, V> interface - play with:
-   1. EnumMap
+   1. ~~EnumMap~~
    2. HashMap
    3. LinkedHashMap
    4. TreeMap
 2. Set<V> interface - play with:
-   1. EnumSet
+   1. ~~EnumSet~~
    2. HashSet
    3. LinkedHashSet
    4. TreeSet
@@ -25,6 +25,10 @@ Required checks:
    1. ArrayDeque
    2. LinkedList
    3. PriorityQueue
+
+- order of iteration
+- functions not implemented in other collection types
+-
 
 You can get 1 point for this task - deadline is 04.06.2022 (23:59). Remember about code quality and
 formatting of your tests (keep clean naming of classes and methods) to make your solution readable and more
