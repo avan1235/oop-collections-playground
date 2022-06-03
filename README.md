@@ -12,15 +12,13 @@ differences for these collections.
 
 Required checks:
 1. Map<K, V> interface - play with:
-   1. EnumMap
-   2. HashMap
-   3. LinkedHashMap
-   4. TreeMap
+   1. HashMap
+   2. LinkedHashMap
+   3. TreeMap
 2. Set<V> interface - play with:
-   1. EnumSet
-   2. HashSet
-   3. LinkedHashSet
-   4. TreeSet
+   1. HashSet
+   2. LinkedHashSet
+   3. TreeSet
 3. Queue<V>  - play with:
    1. ArrayDeque
    2. LinkedList
